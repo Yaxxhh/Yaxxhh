@@ -6,7 +6,7 @@
  <br> 
 - 🌱 I’m currently learning backend ,data analytics ,designing tools
 
-- 📫 How to reach me **chatrathyash@yahoo.com**
+- 📫 How to reach me **chatrathyash@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😂**
 
