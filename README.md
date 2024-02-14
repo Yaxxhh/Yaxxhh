@@ -1,7 +1,7 @@
 ![logo](https://github.com/Yaxxhh/Yaxxhh/blob/main/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm YASH CHATRATH</h1>
 <h3 align="center">A passionate web developer, data analyst/scientist, graphic designer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/0*WVfimFBOp5OrEMze.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on projects.<br>👯 I’m looking to collaborate on analysis, AI/ML.<br>🌱 I’m currently learning<br>⚡ Fun fact I am funny😂.
